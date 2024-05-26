@@ -1,0 +1,31 @@
+.carousel-item h5, p {
+    color: #000;
+}
+.carousel-item h5 {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #1e00ff!important;
+    opacity: 1;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(1);
+    /* color: #F44336; */
+}
+
+.control_prev{
+    font-size: 30px;
+    color: #0027ff;
+    opacity: 1;
+}
+
+.carousel-caption {
+    bottom: 35%;
+}
+
+.pt-80{
+    padding-top: 80px;
+}
